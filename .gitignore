@@ -1,0 +1,56 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log
+.pnp/
+.pnp.js
+
+# Logs
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Production build
+build/
+dist/
+out/
+
+# Editor files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git Ignore Docker related files in backend
+backend/.dockerignore
+backend/Dockerfile
+backend/docker-compose.yml
+
+# Firebase cache
+.firebase/
+.firebaserc
+
+# Babel and ESLint
+.babelrc
+.eslintcache
+.npmrc
+
+# Next.js build
+.next/
+
+# Expo files (for React Native)
+.expo/
+.expo-shared/
