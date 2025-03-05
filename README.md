@@ -103,7 +103,8 @@ project-root/
 │── backend/
 │   ├── main.py
 │   ├── models.py
-│   ├── routes/
+│   ├── database.py
+│   ├── Dockerfile
 │── frontend/
 │   ├── src/
 │   │   ├── app/
