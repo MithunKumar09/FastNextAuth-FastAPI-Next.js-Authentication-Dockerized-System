@@ -128,5 +128,5 @@ project-root/
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, reach out at [your-email@example.com].
+For any inquiries, reach out at mithunkumarkulal33@gmail.com.
 
